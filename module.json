@@ -1,0 +1,11 @@
+{
+    "name": "Encumberence Modifier",
+    "title": "Encumberence Modifier",
+    "description": "A simple module created to modify the encumbrence values.",
+    "author": "Thunder",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.6.2",
+    "styles": [
+        "encumberence.css"
+    ]
+  }
